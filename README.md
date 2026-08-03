@@ -68,7 +68,7 @@ The dashboard helps stakeholders monitor sales performance and identify trends a
 
 ## 📷 Dashboard Preview
 
-![Blinkit Sales Dashboard]()
+![Blinkit Sales Dashboard](https://github.com/Mr-adarsh-developer/-Blinkit-Sales-Analysis-Dashboard/blob/main/dashboard.png)
 
 ---
 
